@@ -1,0 +1,3 @@
+variable "groupname"{
+    type = string
+}
