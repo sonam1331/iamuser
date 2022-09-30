@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./terraformas/implementations
+        working-directory: ./main.tf
 
     steps:
       - name: checkout
