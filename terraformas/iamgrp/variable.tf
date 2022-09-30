@@ -1,3 +1,0 @@
-variable "groupname"{
-    type = string
-}
